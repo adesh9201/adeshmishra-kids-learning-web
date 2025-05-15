@@ -98,18 +98,32 @@ class Alphabets {
   static const String zero = 'zero.svg';
 }
 
+// class Numbers {
+//   static const String numbers = 'numbers.jpg';
+//   static const String zero = 'zero.png';
+//   static const String one = 'one.png';
+//   static const String two = 'two.png';
+//   static const String three = 'three.png';
+//   static const String four = 'four.png';
+//   static const String five = 'five.png';
+//   static const String six = 'six.png';
+//   static const String seven = 'seven.png';
+//   static const String eight = 'eight.png';
+//   static const String nine = 'nine.png';
+// }
+
 class Numbers {
   static const String numbers = 'numbers.jpg';
-  static const String zero = 'zero.png';
-  static const String one = 'one.png';
-  static const String two = 'two.png';
-  static const String three = 'three.png';
-  static const String four = 'four.png';
-  static const String five = 'five.png';
-  static const String six = 'six.png';
-  static const String seven = 'seven.png';
-  static const String eight = 'eight.png';
-  static const String nine = 'nine.png';
+  static const String zero = 'zero.svg';
+  static const String one = 'one.svg';
+  static const String two = 'two.svg';
+  static const String three = 'three.svg';
+  static const String four = 'four.svg';
+  static const String five = 'five.svg';
+  static const String six = 'six.svg';
+  static const String seven = 'seven.svg';
+  static const String eight = 'eight.svg';
+  static const String nine = 'nine.svg';
 }
 
 class Animals {

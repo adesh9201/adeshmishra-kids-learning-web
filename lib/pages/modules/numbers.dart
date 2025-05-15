@@ -129,7 +129,7 @@ class _PopupDialogState extends State<_PopupDialog> {
     final currentItem = widget.items[currentIndex];
     await flutterTts.setLanguage("EN-IN");
     await flutterTts.speak(currentItem.title);
-    await flutterTts.speak(currentItem.description);
+    // await flutterTts.speak(currentItem.description);
   }
 
   Future<void> _speakText(String text) async {
